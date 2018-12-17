@@ -10,10 +10,7 @@
       "direccion": {
         "calle": "Av. Matta",
         "numero": 143,
-        "comuna": {
-          "id": 16,
-          "nombre": "Santiago"
-        }
+        "comuna": "Santiago"
       },
       "activo": 1
     },
